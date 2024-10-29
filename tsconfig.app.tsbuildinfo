@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/component/editpdf.tsx","./src/component/pdfextract.tsx","./src/component/pdftexteditor.tsx","./src/component/footer/footer.tsx"],"version":"5.6.3"}
