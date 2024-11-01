@@ -4,6 +4,8 @@ import './App.css';
 import PDFTextExtractor from './component/pdfExtract';
 import PDFTextEditor from './component/pdftexteditor';
 import Footer from './component/footer/footer';
+import NoticePopup from './component/notice';
+
 
 function App() {
   const [text, setText] = useState<any>(['']);
@@ -21,6 +23,7 @@ function App() {
 
   return (
     <>
+      <NoticePopup />
       <PDFTextExtractor getText={getText} />
       <PDFTextEditor sendText={text}/>
       <Footer/>
