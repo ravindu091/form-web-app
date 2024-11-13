@@ -1,6 +1,7 @@
-# This site used to get pdf 
-1. Upload your onlice recipt pdf
-2. Add your email and hit Send button
-3. hit the download button
+#This website allows you to download a PDF easily. Follow these steps:
 
-   Now you  are done . The pdf will download to your computer.
+1. Upload your Online Payment Receipt PDF.
+2. Enter your email address and click the "Send" button.
+3. Click the "Download" button.
+
+You're all set! The PDF will be downloaded to your computer.
